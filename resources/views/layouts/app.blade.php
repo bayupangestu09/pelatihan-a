@@ -31,6 +31,7 @@
             <main>
                 {{ $slot }}
             </main>
+            <script src="https://cdn.tailwindcss.com/?plugins-forms"></script>
         </div>
     </body>
 </html>
